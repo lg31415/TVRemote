@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">互动电视遥控器</string>
+    <string name="title_section1">遥控器</string>
+    <string name="title_section2">视频点播</string>
+    <string name="title_section3">设置</string>
+    <string name="hello_world">互动电视遥控器</string>
+    <string name="action_settings">关于本遥控器</string>
+    <string name="hello">电视遥控器</string>
+    <string name="vol_up_str">VOL +</string>
+    <string name="vol_down_str">VOL -</string>
+    <string name="mute">MUTE</string>
+	<string name="menu">MENU</string>    
+    <string name="tvplus">CH+</string>
+    <string name="tvminus">CH-</string>
+    <string name="power">POWER</string>
+ 	<string name="planet_prompt">选择您的设备</string>
+ 	<string name="select">请选择你的设备</string>
+  	<string name="info">互动电视遥控器</string>
+ 	<string name="movies001">恐龙星球</string>
+  	<string name="movies002">变形金刚2</string>
+	<string name="movies003">功夫</string>
+	<string name="movies004">诸神之战</string>
+	<string name="movies005">魔境仙踪</string>
+  	  	  	
+
+</resources>
