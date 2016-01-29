@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 #Tue Apr 05 11:18:30 EEST 2011
 eclipse.preferences.version=1
 org.eclipse.ltk.core.refactoring.enable.project.refactoring.history=false
+=======
+#Tue Apr 05 11:18:30 EEST 2011
+eclipse.preferences.version=1
+org.eclipse.ltk.core.refactoring.enable.project.refactoring.history=false
+>>>>>>> 4f70a995a1bcb9433e7eac8b3aa12122146e7052
